@@ -1,2 +1,1 @@
-# pirate-s-combo-lock
-crack the combo lock hehehe
+Set sail on a text-based adventure as a daring pirate aiming to crack the codes and unlock hidden treasure chests! 'Pirate's Combo Lock' offers multiple difficulty levels, challenging your code-cracking skills. Choose your level, input your combos, and chase the riches. Argh, are ye ready for the challenge?
