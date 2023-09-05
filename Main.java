@@ -19,10 +19,10 @@ public class Main {
 
     public static void intro() {
         System.out.println("Ahoy, matey! Welcome to 'Pirate's Combo Lock'!" +
-                "\nYe be a fearless pirate on a quest to unlock hidden treasure chests by crackin' the combo locks. " +
-                "\nThe riches be awaitin', but ye have only a limited number of attempts." +
+                "\nYe be a fearless pirate on a quest to unlock the hidden treasure in the chest by crackin' the combo lock. " +
+                "\nThe riches be awaitin', but ye to guess three digits correctly." +
                 "\nCan ye outsmart the locks and claim the booty, or will ye face defeat?" +
-                "\nGet ready to embark on a thrilling adventure and see if ye have what it takes to be a true pirate!");
+                "\nGet ready to embark on a thrilling adventure and see if ye have what it takes to be a true pirate!\n\n");
     }
 
     public static int lock1 = 0;
@@ -88,7 +88,7 @@ public class Main {
             case 1:
                 System.out.println("Avast, matey! " +
                     "\nAs ye twist the dial and enter the final digit, ye feel a slight give, a tantalizin' sign that the chest be not as firmly locked as before. " +
-                    "\nThe 'clunk' be softer, and ye know ye've guessed at least one of the numbers right. " +
+                    "\nThe 'clunk' be softer, and ye know ye've guessed one of the numbers right. " +
                     "\nBut the treasure chest be a crafty foe, and it holds its secrets tight. " +
                     "\nThough it be not fully unlocked, ye've made a dent in its defenses. " +
                     "\nKeep yer wits about ye and try again, for the riches be closer than ye think!");
@@ -117,7 +117,7 @@ public class Main {
         Scanner scan = new Scanner(System.in);
         System.out.println("\nYe still be standin' before the chest, me hearty. " +
                 "\nWould ye like to give it another go? (y/n)");
-        String input = scan.next();
+        String input = scan.nextLine();
         switch (input) {
             case "n":
                 break;
