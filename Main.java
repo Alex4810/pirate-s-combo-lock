@@ -114,14 +114,17 @@ public class Main {
     }
     public static void askForReplay()
     {
-        Scanner scan = new Scanner(System.in);
         System.out.println("\nYe still be standin' before the chest, me hearty. " +
                 "\nWould ye like to give it another go? (y/n)");
+        Scanner scan = new Scanner(System.in);
         String input = scan.nextLine();
         switch (input) {
             case "n":
                 break;
             case "y":
+                System.out.println("Ahoy, brave pirate! " +
+                        "\nThe lock be no match for yer determination. " +
+                        "\nGo ahead and enter yer next guess for the combo, and may the winds of fortune be with ye! ");
                 replay();
             default:
                 System.out.println("Arrr, yer input be as mysterious as Davy Jones' locker. " +
