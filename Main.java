@@ -95,7 +95,7 @@ public class Main {
                 break;
             case 0:
                 System.out.println("Arrr, matey! " +
-                    "As ye enter the final digit of the combo, ye hear a disheartenin' 'clunk' instead of the triumphant 'click' ye were hopin' for. " +
+                    "\nAs ye enter the final digit of the combo, ye hear a disheartenin' 'clunk' instead of the triumphant 'click' ye were hopin' for. " +
                     "\nThe lock be stubborn, and the chest stays sealed tight, as if guardin' its secrets from the likes of ye. " +
                     "\nYe gave it yer best shot, but today be not the day for treasures untold. " +
                     "\nThe chest remains a mystery, its riches locked away, but fear not, for the seas be vast, and there be more adventures awaitin'! " +
