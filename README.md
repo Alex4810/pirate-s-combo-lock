@@ -6,7 +6,7 @@
 - [Introduction](#introduction)
 - [Game Overview](#game-overview)
 - [Installation](#installation)
-- 
+  
 ## Introduction
 
 Ahoy, matey! Welcome to Pirate's Combo Lock, a text-based adventure that transports you to the golden age of piracy, where you'll find a strangely high-tech combination lock guarding a treasure chest. Can you crack the code and claim the pirate's booty?
