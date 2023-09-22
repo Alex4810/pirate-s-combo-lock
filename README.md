@@ -27,5 +27,5 @@ Pirate's Combo Lock is a straightforward, yet addictive, text-based game that ch
 
 To embark on your pirate adventure and try your luck at cracking the combination lock, follow these installation steps:
 
-1. Clone this repository to your local machine
-2. run in your IDE of choice
+1. Clone this repository to your local machine.
+2. Run in your IDE of choice.
